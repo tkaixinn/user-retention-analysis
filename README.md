@@ -5,6 +5,8 @@ Analysed customer retention and user behaviour to uncover engagement patterns,
 identify drop-off points, and surface early signals associated with long-term
 retention, using real-world transaction data as a proxy for consumer app behaviour.
 
+This is Part 2 of a two-part data analytics portfolio. [Part 1](https://github.com/tkaixinn/tiktok-content-integrity-analysis) examines content integrity and engagement patterns across TikTok videos.
+
 ## Project Highlights
 - Analysed 805,549 cleaned transaction records across a two-year period
 - Built 2 interactive Tableau dashboards for retention and behavioural analysis
