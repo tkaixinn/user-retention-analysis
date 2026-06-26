@@ -13,14 +13,6 @@ This is Part 2 of a two-part data analytics portfolio. [Part 1](https://github.c
 - Applied cohort analysis, funnel analysis, and customer segmentation techniques
 - Identified behavioural indicators associated with long-term customer retention
 
-## Dashboard Preview
-
-### Retention Overview
-<img src="images/retention_dashboard.png" width="100%">
-
-### User Behaviour Deep Dive
-<img src="images/behaviour_dashboard.png" width="100%">
-
 ## Links
 - [Dashboard 1 — Retention Overview](https://public.tableau.com/app/profile/tkaixinn/viz/UserRetentionAnalysis_17815418621350/RetentionOverview)
 - [Dashboard 2 — User Behaviour Deep Dive](https://public.tableau.com/app/profile/tkaixinn/viz/UserBehaviourDeepDive/UserBehaviourDeepDive)
@@ -55,14 +47,3 @@ This is Part 2 of a two-part data analytics portfolio. [Part 1](https://github.c
 3. Identify and monitor customers with low Month 0 spending and transaction frequency, as they may be at higher risk of churn.
 
 4. Develop predictive retention models using first-month engagement metrics to proactively identify at-risk customers.
-
-## Skills Demonstrated
-- Data Cleaning & Preprocessing (Python, pandas)
-- Exploratory Data Analysis (Python, pandas, matplotlib, seaborn) 
-- Cohort Analysis
-- Funnel Analysis
-- Customer Segmentation
-- Behavioural Analytics
-- Data Visualisation
-- Tableau Dashboard Development
-- Data-Driven Recommendation Development
